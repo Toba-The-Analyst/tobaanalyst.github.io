@@ -1,32 +1,24 @@
-Miniport by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Thank you for checking on this portfolio
 
+I love working on data
 
-A super simple responsive portfolio template. It's only a single page because hey, sometimes
-you don't need a half dozen pages to make your point.
+This repository is mainly for projects on Excels using Pivot Table, VHlookup, Graphs and other statistical function
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Data Extraction and Wrangling
+Subjects Covered:
 
-(* = Not included)
+GATHERING DATA:
+Gather data from multiple sources, including gathering files, programmatically downloading files, web-scraping data, and accessing data from APIs
+Import data of various file formats 
+Store gathered data in an SQLL database
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+ASSESSING DATA
+Assess data visually and programmatically using pandas
+Distinguish between dirty data (content or “quality” issues) and messy data (structural or “tidiness” issues)
+Identify data quality issues
+CLEANING DATA
+Identify each step of the data cleaning process (defining, coding,and testing)
+Clean data using Excel, Python and Pandas
 
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Data Visualization
+clean data for visulizing data and finding insights later.
